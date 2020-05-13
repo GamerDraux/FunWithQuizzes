@@ -6,17 +6,17 @@ import java.util.*;
 
 public class Quiz {
     public static ArrayList<Question> qList =
-            new ArrayList<Question>();
+            new ArrayList<>();
     private static float  possiblePoints=0;
     private static float userPoints=0;
 
-    public void addQuestion(Question question){
+    public static void addQuestion(Question question){
         qList.add(question);
     }
 
     public static boolean runQuestion(Question question){
         ArrayList<String> userResponses=
-                new ArrayList<String>();
+                new ArrayList<>();
         Scanner in = new Scanner(System.in);
         System.out.println("*********************");
         System.out.println(question.getQuestion());
