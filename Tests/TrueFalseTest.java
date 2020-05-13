@@ -2,22 +2,21 @@ package org.launchcode.java.studios.FunWithQuizzes.Tests;
 
 import org.junit.Assert;
 import org.junit.Test;
+import org.launchcode.java.studios.FunWithQuizzes.TrueFalse;
 
 import java.util.ArrayList;
-import org.junit.Test;
-import org.launchcode.java.studios.FunWithQuizzes.TrueFalse;
 
 
 public class TrueFalseTest {
 
     TrueFalse question1 = new TrueFalse("The sky is blue"
-            , new ArrayList<String>(){{add("True");}}, 5);
+            , new ArrayList<>(){{add("True");}}, 5);
     ArrayList<String> correctUserAnswer =
-            new ArrayList<String>(){
+            new ArrayList<>(){
         {add("True");}
     };
     ArrayList<String> incorrectUserAnswer =
-            new ArrayList<String>(){
+            new ArrayList<>(){
                 {add("False");}
             };
 

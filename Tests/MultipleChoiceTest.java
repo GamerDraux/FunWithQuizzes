@@ -5,10 +5,11 @@ import org.junit.Before;
 import org.junit.Test;
 import org.launchcode.java.studios.FunWithQuizzes.MultipleChoice;
 
+
 import java.util.ArrayList;
 
 public class MultipleChoiceTest {
-        ArrayList<String> choices = new ArrayList<String>() {
+        ArrayList<String> choices = new ArrayList<>() {
             {
                 add("Stuff");
                 add("More Stuff");
@@ -17,17 +18,17 @@ public class MultipleChoiceTest {
             }
         };
         ArrayList<String> correctAnswers =
-                new ArrayList<String>() {
+                new ArrayList<>() {
                     {
                         add("The Most Stuff");
                     }
                 };
         ArrayList<String> correctUserAnswer =
-                new ArrayList<String>(){
+                new ArrayList<>(){
                     {add("The Most Stuff");}
                 };
         ArrayList<String> incorrectUserAnswer =
-                new ArrayList<String>(){
+                new ArrayList<>(){
                     {add("Extra Stuff");}
                 };
         MultipleChoice question1 = new MultipleChoice("What " +

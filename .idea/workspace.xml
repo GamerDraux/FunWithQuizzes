@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0942bda-a0c4-4134-8f29-524eede07da6" name="Default Changelist" comment="" />
+    <list default="true" id="a0942bda-a0c4-4134-8f29-524eede07da6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Checkbox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunWithQuizzes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/FunWithQuizzes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleChoice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RunQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShortAnswer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/MultipleChoiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/MultipleChoiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/RunQuestionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/RunQuestionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TrueFalseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/TrueFalseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrueFalse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagram.drawio" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +36,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\akand\Desktop\programming\java-practice\Chapter 1\java-web-dev-exercises\src\org\launchcode\java\studios\FunWithQuizzes\Tests" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
