@@ -2,7 +2,7 @@ package org.launchcode.java.studios.FunWithQuizzes;
 
 import java.util.ArrayList;
 
-public class ShortAnswer extends Question{
+public class ShortAnswer extends Question {
     private String shortString;
 
     public ShortAnswer(String aQuestion,

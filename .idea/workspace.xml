@@ -2,23 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0942bda-a0c4-4134-8f29-524eede07da6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/CheckboxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/MultipleChoiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/QuestionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/QuizTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/RunQuestionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TrueFalseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Checkbox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunWithQuizzes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/FunWithQuizzes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultipleChoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quiz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuizRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RunQuestion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShortAnswer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/MultipleChoiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/MultipleChoiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/RunQuestionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/RunQuestionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/TrueFalseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/TrueFalseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrueFalse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diagram.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Checkbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/FunWithQuizzes/src/Checkbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleChoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/FunWithQuizzes/src/MultipleChoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/FunWithQuizzes/src/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/FunWithQuizzes/src/Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/FunWithQuizzes/src/QuizRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RunQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/FunWithQuizzes/src/RunQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShortAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FunWithQuizzes/src/ShortAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/CheckboxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/FunWithQuizzes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FunWithQuizzes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/MultipleChoiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/QuestionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/QuizTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/RunQuestionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TrueFalseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrueFalse.java" beforeDir="false" afterPath="$PROJECT_DIR$/FunWithQuizzes/src/TrueFalse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagram.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/FunWithQuizzes/src/diagram.drawio" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,20 +36,63 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bq74KS8YmZX7EEeGYoyCme3bl9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\akand\Desktop\programming\java-practice\Chapter 1\java-web-dev-exercises\src\org\launchcode\java\studios\FunWithQuizzes\FunWithQuizzes\src" />
+      <recent name="C:\Users\akand\Desktop\programming\java-practice\Chapter 1\java-web-dev-exercises\src\org\launchcode\java\studios\FunWithQuizzes\Tests\test" />
       <recent name="C:\Users\akand\Desktop\programming\java-practice\Chapter 1\java-web-dev-exercises\src\org\launchcode\java\studios\FunWithQuizzes\Tests" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.QuizRunner (1)">
+    <configuration name="QuizRunner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunWithQuizzes.src.QuizRunner" />
+      <module name="FunWithQuizzes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FunWithQuizzes.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuizRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.QuizRunner" />
+      <module name="FunWithQuizzes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuizRunner (1)" />
+        <item itemvalue="Application.QuizRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -56,5 +106,38 @@
       <updated>1589347577966</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="626" y="105" key="FileChooserDialogImpl" timestamp="1589489120642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="626" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589489120642" />
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom" timestamp="1589489438331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589489438331" />
+    <state width="1323" height="172" key="GridCell.Tab.0.center" timestamp="1589489438331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589489438331" />
+    <state width="1323" height="172" key="GridCell.Tab.0.left" timestamp="1589489438331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589489438331" />
+    <state width="1323" height="172" key="GridCell.Tab.0.right" timestamp="1589489438331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589489438331" />
+    <state x="326" y="0" key="SettingsEditor" timestamp="1589489136070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589489136070" />
+    <state x="391" y="57" width="583" height="614" key="find.popup" timestamp="1589489409293">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="57" width="583" height="614" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1589489409293" />
   </component>
 </project>

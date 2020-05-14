@@ -1,4 +1,4 @@
-package org.launchcode.java.studios.FunWithQuizzes.Tests;
+package org.launchcode.java.studios.FunWithQuizzes.test;
 
 
 

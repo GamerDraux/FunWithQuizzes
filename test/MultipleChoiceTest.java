@@ -1,7 +1,6 @@
-package org.launchcode.java.studios.FunWithQuizzes.Tests;
+package org.launchcode.java.studios.FunWithQuizzes.test;
 
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 import org.launchcode.java.studios.FunWithQuizzes.MultipleChoice;
 
